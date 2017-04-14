@@ -39,3 +39,9 @@
 
 
 周开利, 邓春晖. MATLAB 基础及其应用教程[J]. 北京大学出版社, 2007: 20-65.
+
+
+Kantz H, Schreiber T. Nonlinear time series analysis[M]. Cambridge university press, 2004.
+
+http://wowubuntu.com/markdown/
+
